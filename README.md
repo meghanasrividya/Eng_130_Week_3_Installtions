@@ -27,9 +27,17 @@ https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/
 - currrently running process `top` & `ps aux'
 - To remove any process `kill PID`- `kill 7`
 - how to delete folder/hidden folder `ls-a`
-- print last 3 lines from the test.txt
-- print first 3 lines from the test.txt
-- print last 10 lines from the test.txt
+- print last 3 lines from the test.txt `tail -3 test.txt`
+![image](https://user-images.githubusercontent.com/97250268/196442491-9abcfdc6-db08-4e65-a220-ad49a0caaaa3.png)
+
+- print first 3 lines from the test.txt `head -3 test.txt`
+
+- print last 10 lines from the test.txt `tail -10 test.txt`
 - Research how to use `| pipe` & `grep` & `sort`
+- **
 - How to create/run a process in the background & foreground, create/run a process in both areas
 - kill the process that you created
+- Install `nginx` in our VM
+- create a `private-network` between localhost &vm
+- allocate an IP address - for mac users 
+- `sudo apt-get install nginx -y`
