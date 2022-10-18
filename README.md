@@ -17,3 +17,8 @@ https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/
 - ls or to check all files hidden files as well `ls -a'
 - How to create folder` mkdir foldername`
 - How to navigate to the folder `cd foldername`
+- How to navigate back/out `cd..` or `cd` Enter
+- How to delete a file/folder `rm-rf file/foldername`
+- Research how to copy file from 1 location to another
+- copy test.txt into app folder ` cp source_file destination_file`
+-
